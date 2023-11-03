@@ -1,5 +1,5 @@
 # Flower
-Just Animated flowers
-Growing
-Sizzling in air effect.
-![Screenshot (2)](https://github.com/sukeshnerella/Flower/assets/125778442/f617818e-0789-4f25-a4e2-18ffb456b19f)
+<br>**Animated flowers.**<br>
+<br>**Growing.**<br>
+<br>**Sizzling in air effect.**<br>
+<br>![Flower](https://github.com/sukeshnerella/Flower/assets/125778442/ce762ae9-3445-4bc6-909d-4191fd680810)<br>
